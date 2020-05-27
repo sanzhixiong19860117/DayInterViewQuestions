@@ -83,7 +83,7 @@ Java内存区域
 
 ### **说一下 JVM 的主要组成部分及其作用？**
 
-![https://raw.githubusercontent.com/sanzhixiong19860117/DayInterViewQuestions/master/2020-5-27/640.webp]()
+![](https://raw.githubusercontent.com/sanzhixiong19860117/DayInterViewQuestions/master/2020-5-27/640.webp)
 
 
 
