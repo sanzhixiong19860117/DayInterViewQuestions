@@ -12,4 +12,4 @@
 
 [2020-6-1(假如Redis里面有1亿个key)](https://github.com/sanzhixiong19860117/DayInterViewQuestions/tree/master/2020-6-1)
 
-2020-6-3(抢红包设计)
+[2020-6-3(抢红包设计)](https://github.com/sanzhixiong19860117/DayInterViewQuestions/tree/master/2020-6-3)
