@@ -14,4 +14,6 @@
 
 [2020-6-3(抢红包设计)](https://github.com/sanzhixiong19860117/DayInterViewQuestions/tree/master/2020-6-3)
 
+[2020-6-5(线程池拒绝策略分别使用在什么场景)](https://github.com/sanzhixiong19860117/DayInterViewQuestions/tree/master/2020-6-5)
+
 [2020-6-6(索引不适用的条件)](https://github.com/sanzhixiong19860117/DayInterViewQuestions/tree/master/2020-6-6)
