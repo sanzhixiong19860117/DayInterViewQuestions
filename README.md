@@ -25,3 +25,5 @@
 [2020-6-9(手写归并排序)](https://github.com/sanzhixiong19860117/DayInterViewQuestions/tree/master/2020-6-9)
 
 [2020-6-11(随机数组找出出现单数次的那个数)](https://github.com/sanzhixiong19860117/DayInterViewQuestions/tree/master/2020-6-11)
+
+[2020-6-12(Redis支持的数据类型?(快手))](https://github.com/sanzhixiong19860117/DayInterViewQuestions/tree/master/2020-6-12)
