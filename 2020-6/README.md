@@ -22,3 +22,5 @@
 
 [2020-6-15(Redis怎么实现分布式锁?)](https://github.com/sanzhixiong19860117/DayInterViewQuestions/tree/master/2020-6/2020-6-15)
 
+[2020-6-16(Redis分布式锁怎么解锁？)](https://github.com/sanzhixiong19860117/DayInterViewQuestions/tree/master/2020-6/2020-6-16)
+
