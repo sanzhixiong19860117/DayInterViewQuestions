@@ -24,8 +24,8 @@
 
 [2020-6-16(Redis分布式锁怎么解锁？)](https://github.com/sanzhixiong19860117/DayInterViewQuestions/tree/master/2020-6/2020-6-16)
 
-2020-6-18(红锁的设计思想？)[](https://github.com/sanzhixiong19860117/DayInterViewQuestions/tree/master/2020-6/2020-6-18)
+[2020-6-18(红锁的设计思想？)](https://github.com/sanzhixiong19860117/DayInterViewQuestions/tree/master/2020-6/2020-6-18)
 
-2020-6-19(ZK的分布式锁怎么实现？)[](https://github.com/sanzhixiong19860117/DayInterViewQuestions/tree/master/2020-6/2020-6-19)
+[2020-6-19(ZK的分布式锁怎么实现？)](https://github.com/sanzhixiong19860117/DayInterViewQuestions/tree/master/2020-6/2020-6-19)
 
-2020-6-20(kafka调试)[](https://github.com/sanzhixiong19860117/DayInterViewQuestions/tree/master/2020-6/2020-6-20)
+[2020-6-20(kafka调试)](https://github.com/sanzhixiong19860117/DayInterViewQuestions/tree/master/2020-6/2020-6-20)
