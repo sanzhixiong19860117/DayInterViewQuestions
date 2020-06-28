@@ -33,3 +33,5 @@
 [2020-6-22(一句话总结ZK?)](https://github.com/sanzhixiong19860117/DayInterViewQuestions/tree/master/2020-6/2020-6-22)
 
 [2020-6-23(ZK的哪些基础能力构建出了哪些上层应用)](https://github.com/sanzhixiong19860117/DayInterViewQuestions/tree/master/2020-6/2020-6-23)
+
+[2020-6-27(ACID是什么？描述一下？)](https://github.com/sanzhixiong19860117/DayInterViewQuestions/tree/master/2020-6/2020-6-27)
